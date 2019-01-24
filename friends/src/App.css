@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  display: inline-block;
 }
 
 .App-logo {
@@ -29,4 +30,16 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.list{
+  display: inline-block;
+
+}
+.listBox{
+  border: 1px solid grey;
+  border-radius: 21px;
+  margin: 6px;
+  width: 335px;
+
 }
