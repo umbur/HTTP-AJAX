@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  display: inline-block;
 }
 
 .App-logo {
@@ -31,16 +32,15 @@
   }
 }
 
-.friends-list__container{
+.list{
   display: inline-block;
 
 }
-.friend{
+.listBox{
   border: 1px solid grey;
   border-radius: 21px;
   margin: 6px;
   width: 335px;
-  display:inline-block;
 }
 .formBox{
   margin-top: -33px
